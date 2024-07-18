@@ -1,7 +1,7 @@
 # OVAL-Website-Redesign
 
 
-### Figma Working File
+## Figma Working File
 
 
 - Current prototype in [Viwer Mode](https://www.figma.com/proto/ZzGzh4exIQbatiATwgayE5/OVAL-new-website?node-id=0-1&t=wU1dHKS6KcuQMues-1) 
@@ -16,26 +16,26 @@
 <img width="218" alt="螢幕截圖 2024-07-18 16 14 01" src="https://github.com/user-attachments/assets/922ee2b2-d613-438b-853d-370505467c37">
 <img width="249" alt="螢幕截圖 2024-07-18 16 14 19" src="https://github.com/user-attachments/assets/bdcd6ea7-47df-4f85-8859-93cd992cc4a4">
 
-### Landing Animation ideas
-#### 1️⃣ AfterEffects Working File
+## Landing Animation ideas
+### 1️⃣ AfterEffects Working File
 
-#### 2️⃣ 3D Interaction
+### 2️⃣ 3D Interaction
 - sample created via Spline 3D 
 [file link](https://app.spline.design/file/fdf466b8-b917-483c-8523-2ba6a919cdc1)
 
-##### Public URL
+#### Public URL
 [Public URL](https://my.spline.design/untitled-529caf0b60e7840a8a2c91383be8ce23/) 
 ```html
 <iframe src='https://my.spline.design/untitled-529caf0b60e7840a8a2c91383be8ce23/' frameborder='0' width='100%' height='100%'></iframe>
 ```
 
-##### Viewer mode
+#### Viewer mode
 ```js
 <script type="module" src="https://unpkg.com/@splinetool/viewer@1.8.9/build/spline-viewer.js"></script>
 <spline-viewer url="https://prod.spline.design/jPHgShhH3Linuhu9/scene.splinecode"></spline-viewer>
 ```
 
-##### Code export
+#### Code export
 ```js
 import Spline from '@splinetool/react-spline/next';
 
