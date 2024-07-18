@@ -1,7 +1,10 @@
-# OVAL-Landing-Animation
+# OVAL-Website-Redesign
 
 
-### 3D version interaction ideas
+### Figma Working File
+```html
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FZzGzh4exIQbatiATwgayE5%2FOVAL-new-website%3Fnode-id%3D0-1%26t%3DwU1dHKS6KcuQMues-1" allowfullscreen></iframe>
+```
 sample created via Spline 3D 
 [file link](https://app.spline.design/file/fdf466b8-b917-483c-8523-2ba6a919cdc1)
 
