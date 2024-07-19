@@ -57,4 +57,4 @@ export default function Home() {
 ## Website References
 
 #### - Floating frame of different project categories. [link](https://www.guillaumetomasi.com/)
-#### - Awards playground. [link]([https://www.guillaumetomasi.com/](https://www.youtube.com/watch?app=desktop&v=G2ptGCwDkVE))
+#### - Awards playground. [link](https://www.youtube.com/watch?app=desktop&v=G2ptGCwDkVE)
